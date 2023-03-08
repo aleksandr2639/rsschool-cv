@@ -1,5 +1,5 @@
 # _Aleksandr Kriulin_
-![avatar](/rsschool-cv/avatar/foto.png)
+![](rsschool-cv/avatar/foto.png)
 
 ## _Contacts_
 * [email](aleksandrkriulin493@gmail.com)
